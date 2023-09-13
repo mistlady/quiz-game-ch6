@@ -1,0 +1,37 @@
+{
+    "level1": [
+        {
+            "id": 1,
+            "qus": "What is the capital of France?",
+            "ans": "Paris"
+        }
+    ],
+    "level2": [
+        {
+            "id": 2,
+            "qus": "Who wrote the famous play Romeo and Juliet?",
+            "ans": "William Shakespeare"
+        }
+    ],
+    "level3": [
+        {
+            "id": 3,
+            "qus": "What is the chemical symbol for the element gold?",
+            "ans": "Au"
+        }
+    ],
+    "level4": [
+        {
+            "id": 4,
+            "qus": "What is the tallest mountain in the world?",
+            "ans": "Mount Everest"
+        }
+    ],
+    "level5": [
+        {
+            "id": 5,
+            "qus": "Which planet is known as the Red Planet?",
+            "ans": "Mars"
+        }
+    ]
+}
