@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+*{
+  box-sizing: border-box;
+}
+body {
+  background-image: url(./images/Purple_and_Pink_Playful_Yes_or_No_Game_Presentation_1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.quiz-container{
+  width: 700px;
+  overflow: hidden;
+}
+.quiz-header{
+  padding: 4rem;
+}
+h2{
+  padding: 1rem;
+  text-align: center;
+  margin: 0;
+}
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+ul li{
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+ul li label{
+  cursor: pointer;
+}
+button{
+  background-color: #3e4188;
+  color: #fff;
+  display: block;
+  width: 20%;
+  cursor: pointer;
+  position: absolute;
+  top: 73%;
+  left: 40%;
+  padding: 14px 20px;
+  margin-bottom: 50px;
+  border-radius: 8px;
+  font-size: 25px;
+  font-weight: 700;
+  border: 2px solid #fff;
+}
+button:hover{
+  background-color: #faa7ae;
+}
+button:focus{
+  outline: none;
+  background-color: #44b927;
+}
