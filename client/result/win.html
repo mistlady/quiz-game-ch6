@@ -15,8 +15,14 @@
                 <div class="btns">
                     <button>►</button>
                     <button>X</button>
-                    <button>↻</button>
+                    <button id="again">↻</button>
                 </div>
         </div>
     </body>
+    <script>
+        const tryagain = document.getElementById("again");
+        tryagain.addEventListener("click", function () {
+        window.location.href = "../start/start.html";
+    });
+    </script>
 </html>

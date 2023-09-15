@@ -214,33 +214,33 @@ correct1.addEventListener("click", async function () {
           }
         }
         correct5.addEventListener("click", async function () {
-          window.location.href = "../win.html";
+          window.location.href = "../result/win.html";
         });
         wrong5.forEach((button) => {
           button.addEventListener("click", function () {
             // Redirect to another HTML page
-            window.location.href = "../loser.html";
+            window.location.href = "../result/loser.html";
           });
         });
       });
       wrong4.forEach((button) => {
         button.addEventListener("click", function () {
           // Redirect to another HTML page
-          window.location.href = "../loser.html";
+          window.location.href = "../result/loser.html";
         });
       });
     });
     wrong3.forEach((button) => {
       button.addEventListener("click", function () {
         // Redirect to another HTML page
-        window.location.href = "../loser.html";
+        window.location.href = "../result/loser.html";
       });
     });
   });
   wrong2.forEach((button) => {
     button.addEventListener("click", function () {
       // Redirect to another HTML page
-      window.location.href = "../loser.html";
+      window.location.href = "../result/loser.html";
     });
   });
 });
@@ -248,6 +248,6 @@ correct1.addEventListener("click", async function () {
 wrong1.forEach((button) => {
   button.addEventListener("click", function () {
     // Redirect to another HTML page
-    window.location.href = "../loser.html";
+    window.location.href = "../result/loser.html";
   });
 });
