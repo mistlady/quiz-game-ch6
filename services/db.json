@@ -1,0 +1,54 @@
+{
+    "level1": [
+        {
+            "id": 1,
+            "qus": "What is the capital of France?",
+            "ans1": "London",
+            "ans2": "Paris",
+            "ans3": "Rome",
+            "ans4": "Berlin"
+        }
+    ],
+    "level2": [
+        {
+            "id": 2,
+            "qus": "Who wrote the famous play Romeo and Juliet?",
+            "ans1": "Anton Chekhov",
+            "ans2": "Henrik Ibsen",
+            "ans3": "William Shakespeare",
+            "ans4": "Tennessee Williams"
+
+        }
+    ],
+    "level3": [
+        {
+            "id": 3,
+            "qus": "What is the chemical symbol for the element gold?",
+            "ans1": "Au",
+            "ans2": "Ho",
+            "ans3": "Ag",
+            "ans4": "Ar"
+            
+        }
+    ],
+    "level4": [
+        {
+            "id": 4,
+            "qus": "What is the tallest mountain in the world?",
+            "ans1": "Mount Denali",
+            "ans2": "Jabal Mousa",
+            "ans3": "Mount Fuji",
+            "ans4": "Mount Everest"
+        }
+    ],
+    "level5": [
+        {
+            "id": 5,
+            "qus": "Which planet is known as the Red Planet?",
+            "ans1": "Mercury",
+            "ans2": "Uranus",
+            "ans3": "Jupiter",
+            "ans4": "Mars"
+        }
+    ]
+}
